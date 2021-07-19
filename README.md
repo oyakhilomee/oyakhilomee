@@ -5,18 +5,16 @@
 <br/>
 
 - I'm a Frontend Engineer/Content Creator based in Nigeria.
-- I'm "mostly" focused on Vue JS 🚀, Cloud Computing ☁️, and Node JS right now.
+- I'm "mostly" focused on getting a hang of Vue JS 🚀, Cloud Computing ☁️, and Node JS right now.
 - I have a keen interest in Product Management
 - Aside from pressing my laptop, you can find me advocating for climate change and sustainable living and of course reading mythical books by authors like Eoin Colfer, Richelle Mead, Rick Riordan and many more.
 
 ![](https://komarev.com/ghpvc/?username=oyakhilomee)
 
-<br/>
-
 ## I'm a Developer, Designer and Content Creator. (Triple Threat if you'd like)
 
 - 🔭 Currently a Student Ambassador at [Microsoft](https://github.com/microsoft)
-- 👷🏾‍♀️ Currently the Branch Manager of the youth-run NGO [AIESEC in Port Harcourt](https://https://www.linkedin.com/company/aiesec-in-port-harcourt/) in my city.
+- 👷🏾‍♀️ Currently the Branch Director of the youth-run NGO [AIESEC in Port Harcourt](https://https://www.linkedin.com/company/aiesec-in-port-harcourt/) in my city.
   We are building the next generation of youth leaders that will lead the change and give everyone the chance to achieve humankind's potential 👉🏽 [AIESEC](https://aiesec.org)
 - 📝 Currently learning [Vue](https://vuejs.org/)
 - ✒️ You should probably checkout my blog too [Life of Oyas](https://lifeofoyas.tech/) I write stuff you might probably like to read...ish
@@ -29,15 +27,10 @@
 - Barter Student Ambassador at [Barter by Flutterwave](https://barter.me/), Barter is a lifestyle payments service that offers you a cheaper and seamless way to send, request, and receive money, pay merchants and bills and from the convenience of your mobile phone.
 - ... view more and connect with me on [LinkedIn](https://www.linkedin.com/in/mr-oyakhilome/)
 
-<br/>
-<br/>
-
 ### Connect with me:
 
 - [<img align="left" alt="mr_oyakhilome | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mr_oyakhilome)
 - [<img align="left" alt="mr-oyakhilome | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mr-oyakhilome/)
-
-<br/>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyakhilomee&layout=compact)](https://github.com/duffigoogle/github-readme-stats)

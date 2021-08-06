@@ -35,6 +35,8 @@
 - [<img align="left" alt="mr-oyakhilome | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mr-oyakhilome/)
 <br/>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=oyakhilomee&theme=highcontrast&show_icons=true&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyakhilomee&layout=compact)](https://github.com/duffigoogle/github-readme-stats)
 
 ### Languages and Tools I've worked with:

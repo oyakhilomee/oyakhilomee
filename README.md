@@ -15,7 +15,6 @@
 
 ## Currently;
 
-- 📝 Content Creator at [Iku](https://iku.earth)
 - 🔭 Student Ambassador at [Microsoft](https://github.com/microsoft)
 - 👷🏾‍♀️ Branch Director of the youth-run NGO [AIESEC in Port Harcourt](https://https://www.linkedin.com/company/aiesec-in-port-harcourt/) in my city.
   We are building the next generation of youth leaders that will lead the change and give everyone the chance to achieve humankind's potential 👉🏽 [AIESEC](https://aiesec.org) 

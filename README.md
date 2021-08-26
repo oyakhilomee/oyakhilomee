@@ -5,8 +5,8 @@
 <br/>
 
 - I'm a Frontend Engineer/Content Creator based in Nigeria.
-- I'm "mostly" focused on getting a hang of Frontend Engineering 🚀, and Cloud Computing ☁️, right now.
-- Aside from pressing my laptop, you can find me advocating for climate change and sustainable living and of course reading mythical books by authors like Eoin Colfer, Richelle Mead, Rick Riordan and many more.
+- I'm "mostly" focused on getting a hang of Frontend Engineering 🚀, and Cloud Computing ☁️ right now.
+- Aside from pressing my laptop, you can find me advocating for climate action and sustainable living and of course reading mythical books by authors like Eoin Colfer, Richelle Mead, Rick Riordan and many more.
 
 ![](https://komarev.com/ghpvc/?username=oyakhilomee)
 

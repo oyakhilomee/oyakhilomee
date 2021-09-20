@@ -21,7 +21,6 @@
 
 ## Previous Experiences
 
-- Frontend Developer intern at [Clarylife Global](https://clarylifeglobal.com/)
 - Barter Student Ambassador at [Barter by Flutterwave](https://barter.me/), Barter is a lifestyle payments service that offers you a cheaper and seamless way to send, request, and receive money, pay merchants and bills and from the convenience of your mobile phone.
 
 ### Connect with me:

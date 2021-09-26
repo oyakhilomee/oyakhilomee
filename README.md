@@ -10,8 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=oyakhilomee)
 
-## I'm a Developer, Designer and Content Creator. (Triple Threat if you'd like)
-
 ## Currently;
 
 - 🔭 Student Ambassador at [Microsoft](https://studentambassadors.microsoft.com/en-US/profile/54289)

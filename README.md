@@ -6,7 +6,8 @@
 
 - I'm a Frontend Engineer/Content Creator based in Nigeria.
 - I'm "mostly" focused on getting a hang of Frontend Engineering 🚀, and Cloud Computing ☁️ right now.
-- Aside from pressing my laptop, you can find me advocating for climate action and sustainable living and of course reading mythical books by authors like Eoin Colfer, Richelle Mead, Rick Riordan and many more.
+- Aside from pressing my laptop, you can find me advocating for climate action and sustainable living.
+- I read mythical books by authors like Eoin Colfer, Richelle Mead, Rick Riordan and many more when I want to escape reality.
 
 ![](https://komarev.com/ghpvc/?username=oyakhilomee)
 
@@ -34,6 +35,7 @@
 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 

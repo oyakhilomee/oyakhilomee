@@ -4,7 +4,7 @@
 
 <br/>
 
-- I'm a Program and People Manager based in Nigeria.
+- I'm a Program Manager based in Nigeria.
 - Aside from pressing my laptop, you can find me advocating for climate action and sustainable living.
 ![](https://komarev.com/ghpvc/?username=oyakhilomee)
 

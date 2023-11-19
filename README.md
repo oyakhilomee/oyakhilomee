@@ -1,23 +1,17 @@
 ### Hello there 😎,
 
-## I'm Anthony Oyakhilome Justice 👋🏼
+## I'm Justice Oyakhilome Anthony 👋🏼
 
 <br/>
 
 - I'm a Program and People Manager based in Nigeria.
 - Aside from pressing my laptop, you can find me advocating for climate action and sustainable living.
-- I read mythical books by authors like Eoin Colfer, Richelle Mead, Rick Riordan and many more when I want to escape reality.
-
 ![](https://komarev.com/ghpvc/?username=oyakhilomee)
 
 ## Currently;
-- People and Organization Development Manager - AIESEC in Albania
-- 🔭 Student Ambassador at [Microsoft](https://studentambassadors.microsoft.com/en-US/profile/54289)
-- ✒️ You should probably checkout my blog too [Life of Oyas](https://lifeofoyas.tech/) I write stuff you might probably like to read...ish
-
-## Previous Experiences
-
-- Barter Student Ambassador at [Barter by Flutterwave](https://barter.me/), Barter is a lifestyle payments service that offers you a cheaper and seamless way to send, request, and receive money, pay merchants and bills and from the convenience of your mobile phone.
+- Community Program Manager @Young Collective
+- 🔭 Global Ambassador at [UNLEASH](https://unleash.org/ambassadors/)
+- ✒️ You should probably checkout my blog too [Life of Oyas](https://lifeofoyas.hashnode.dev/) I write stuff you might probably like to read...ish
 
 ### Connect with me:
 

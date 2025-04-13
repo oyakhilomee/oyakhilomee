@@ -8,7 +8,6 @@
 ![](https://komarev.com/ghpvc/?username=oyakhilomee)
 
 ## Currently;
-- Community Growth & Data Lead @ Young Collective
 - Country Director @ AIESEC in Rwanda
 - 🔭 Global Ambassador at [UNLEASH](https://unleash.org/ambassadors/)
 - ✒️ You should probably check out my blog too [Life of Oyas](https://lifeofoyas.hashnode.dev/) I write stuff you might probably like to read...ish

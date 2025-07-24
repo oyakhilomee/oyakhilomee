@@ -2,13 +2,8 @@
 
 ## I'm Justice Oyakhilome Anthony 👋🏼
 
-<br/>
-
-- Aside from pressing my laptop, you can find me advocating for climate action and sustainable living.
-![](https://komarev.com/ghpvc/?username=oyakhilomee)
-
 ## Currently;
-- Country Director @ AIESEC in Rwanda
+- Community Growth & Data Lead
 - 🔭 Global Ambassador at [UNLEASH](https://unleash.org/ambassadors/)
 - ✒️ You should probably check out my blog too [Life of Oyas](https://lifeofoyas.hashnode.dev/) I write stuff you might probably like to read...ish
 
